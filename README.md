@@ -10,3 +10,6 @@ Open the the ipynb file and run (this can take significant time if your computer
 Open app.py under the app folder and add in the file paths of your folder.
 Run the app and test verification
 
+Common Errors:
+If the ipynb file given does not work when launched in juptyer lab, convert the .py script given using the jupyter conversion script and use the converted script in jupyter lab instead.
+
